@@ -9,11 +9,11 @@ exports.config = {
   /**
    * Array of application names.
    */
-  app_name: ['mona-onb-space'],
+  app_name: ['monanodeapp'],
   /**
    * Your New Relic license key.
    */
-  license_key: 'c475cdd515b8be4d857d2e72cdfe964510adNRAL',
+  license_key: '9913d99e44bdf04e1deeb8e72d65324e801cNRA',
   /**
    * This setting controls distributed tracing.
    * Distributed tracing lets you see the path that a request takes through your
